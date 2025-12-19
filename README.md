@@ -30,6 +30,15 @@ This project implements a **K-Means clustering algorithm** to group retail custo
 - `Mall_Customers.csv` – Dataset
 - `README.md` – Project documentation
 
+## 📸 Visual Results
+
+### Customer Segments
+![Customer Segments](outputs/customer_segments.png)
+
+### Elbow Method
+![Elbow Method](outputs/elbow_method.png)
+
+
 
 
 
