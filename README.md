@@ -36,7 +36,8 @@ This project implements a **K-Means clustering algorithm** to group retail custo
 ![Customer Segments](outputs/customer_segments_task2.png)
 
 ### Elbow Method
-![Elbow Method](outputs/elbow method task 2.png)
+![Elbow Method](outputs/elbow_method_tassk2.png)
+
 
 
 
